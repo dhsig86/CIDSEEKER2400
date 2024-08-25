@@ -2,26 +2,33 @@ document.addEventListener('DOMContentLoaded', () => {
     const searchButton = document.getElementById('search-button');
     const cidSearch = document.getElementById('cid-search');
     const resultsContainer = document.getElementById('cid-resultados');
+    const loadingIndicator = document.getElementById('loading');
 
-    // Carrega o JSON local do CID-10
-    fetch('CID10_categorias.json')  // Verifique se o caminho está correto no GitHub Pages ou no servidor local
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('Erro ao carregar o arquivo JSON');
-            }
-            return response.json();
-        })
+    // Carrega o JSON local do CID-10 completo
+    fetch('CID10_completo.json')  // Verifique o caminho correto para o JSON
+        .then(response => response.json())
         .then(data => {
-            // Ação ao clicar no botão de busca
-            searchButton.addEventListener('click', () => {
+            const search = () => {
                 const query = cidSearch.value.trim().toLowerCase();
-                
-                // Exibe resultados da busca
-                const results = data.filter(item => item.DESCRICAO.toLowerCase().includes(query));
-                displayCidResults(results);
-            });
 
-            // Função para exibir resultados na página
+                if (!query) {
+                    resultsContainer.innerHTML = '<p>Digite algo para pesquisar.</p>';
+                    return;
+                }
+
+                loadingIndicator.style.display = 'block'; // Exibe o indicador de carregamento
+                resultsContainer.innerHTML = ''; // Limpa resultados anteriores
+
+                // Filtro dos resultados da busca
+                const results = data.filter(item => item.Descrição.toLowerCase().includes(query));
+                
+                setTimeout(() => {
+                    loadingIndicator.style.display = 'none'; // Oculta o indicador de carregamento
+                    displayCidResults(results);
+                }, 1000);  // Simulação de atraso para efeito de feedback ao usuário
+            };
+
+            // Função para exibir resultados
             const displayCidResults = (results) => {
                 resultsContainer.innerHTML = '';  // Limpa resultados anteriores
                 
@@ -31,11 +38,21 @@ document.addEventListener('DOMContentLoaded', () => {
                     results.forEach(result => {
                         const div = document.createElement('div');
                         div.classList.add('result-item');  // Classe CSS para estilizar
-                        div.innerHTML = `<strong>${result.CAT}:</strong> ${result.DESCRICAO}`;
+                        div.innerHTML = `<strong>${result.Código}:</strong> ${result.Descrição}`;
                         resultsContainer.appendChild(div);
                     });
                 }
             };
+
+            // Evento de clique no botão de busca
+            searchButton.addEventListener('click', search);
+
+            // Ativar a busca ao pressionar Enter
+            cidSearch.addEventListener('keydown', (e) => {
+                if (e.key === 'Enter') {
+                    search();
+                }
+            });
         })
         .catch(error => {
             console.error('Erro ao carregar o JSON:', error);

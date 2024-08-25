@@ -1,21 +1,26 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Consulta CID-10</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
     <header>
         <h1>Consulta CID-10</h1>
         <p>Digite o nome da doença para pesquisar</p>
     </header>
-    <section>
-        <input type="text" id="cid-search" placeholder="Ex: Cólera">
+
+    <div class="search-container">
+        <input type="text" id="cid-search" placeholder="Digite aqui..." autofocus>
         <button id="search-button">Buscar</button>
-        <div id="cid-resultados"></div>
-    </section>
+    </div>
+
+    <div id="loading" style="display: none;">Buscando...</div>
+    <div id="cid-resultados"></div>
+
     <script src="app.js"></script>
 </body>
 </html>
