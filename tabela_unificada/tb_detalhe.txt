@@ -1,0 +1,43 @@
+001Inclui valor da anestesia                                                                           202408
+003Admite longa permanência                                                                            202408
+004Admite permanência à maior                                                                          202408
+005Admite liberação de quantidade na AIH                                                               202408
+006CNRAC                                                                                               202408
+007Permanência por dia                                                                                 202408
+008Não permite mudança de procedimento                                                                 202408
+009Exige CPF/CNS                                                                                       202408
+011Permite alta direta de UTI                                                                          202408
+012Exige idade no BPA (Consolidado)                                                                    202408
+013Verifica habilitação de terceiro                                                                    202408
+014Admite APAC de Continuidade                                                                         202408
+015Admitido apenas em Hosp.Espec/Psiquiatria                                                           202408
+017Exige Informação da OPM                                                                             202408
+020Monitoramento do CEO                                                                                202408
+021Não Exige CBO                                                                                       202408
+022Exige registro na APAC de dados complementares                                                      202408
+023Registro no SISCOLO                                                                                 202408
+024Registro no SISPRENATAL                                                                             202408
+025Registro no SISMAMA                                                                                 202408
+026Registro de Procedimentos Secundário Compativel                                                     202408
+029Admite período maior para a apresentação                                                            202408
+033APAC com validade fixa de 03 competências                                                           202408
+034Não exige CPF/CNS                                                                                   202408
+036Exige Autorização                                                                                   202408
+037Exige CNPJ do Fornecedor                                                                            202408
+038Exige Serviço/Classificação                                                                         202408
+040Registro no SISCAN                                                                                  202408
+041APAC com validade fixa de 12 competências                                                           202408
+042Não Admite Liberação de Crítica de Idade                                                            202408
+043Exige registro de CID de causas associadas                                                          202408
+044Cirurgias Eletivas                                                                                  202408
+045Diárias de Leitos Complementares                                                                    202408
+046Tratamento Ambulatorial de Doenças Crônicas                                                         202408
+047Autorização com limite máximo de 6 meses.                                                           202408
+048Exige CID                                                                                           202408
+049Permite Informação de Equipe Cirúrgica                                                              202408
+050Permite o Registro de Informações do CPF/CNS do(s) Recém-Nascido(s)                                 202408
+051Programa Nacional de Redução das Filas de Procedimentos Eletivos Hospitalares.                      202408
+052Programa Nacional de Redução das Filas de Procedimentos Eletivos Ambulatorias                       202408
+053Programa Mais Acesso a Especialistas (PMAE)                                                         202408
+054APAC com validade fixa de 2 competências.                                                           202408
+055Exige data do resultado diagnóstico de Neoplasia                                                    202408

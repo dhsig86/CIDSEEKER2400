@@ -1,0 +1,72 @@
+100Serviço de Atenção a Saúde no Sistema Penitenciário                                                                     202408
+101Estratégia de Saúde da Família                                                                                          202408
+102Estratégias de Agentes Comunitário de Saúde                                                                             202408
+103Serviço de Atendimento Móvel de Urgências                                                                               202408
+104Regulação Assistêncial dos Serviços de Saúde                                                                            202408
+105Serviço de Atenção em Neurologia/ Neurocirurgia                                                                         202408
+106Serviço de Atenção a DST/HIV/AIDS                                                                                       202408
+107Atenção à Saúde Auditiva                                                                                                202408
+108Atenção a Saúde do Trabalhador                                                                                          202408
+109Serviço de Atenção a Saúde dos Adolecentes em Conflito com a Lei, em Regime de Internação e Internação Provisória       202408
+110Serviço de Atenção a Saúde Reprodutiva                                                                                  202408
+111Serviço de Atenção ao Paciente com Tuberculose                                                                          202408
+112Serviço de Atenção ao Pré-Natal e Nascimento                                                                            202408
+113Serviço de Atenção Domiciliar                                                                                           202408
+114Serviço de Atenção em Saúde Bucal                                                                                       202408
+115Serviço de Atenção Psicossocial                                                                                         202408
+116Serviço de Atenção Cardiovascular/Cardiologia                                                                           202408
+117Serviço de Cirurgia Reparadora                                                                                          202408
+118Serviço de Cirurgia Torácica                                                                                            202408
+119Serviço de Controle de Tabagismo                                                                                        202408
+120Serviço de Diagnóstico por Anatomia Patológica e/ou Citopatologia                                                       202408
+121Diagnóstico por Imagem                                                                                                  202408
+122Serviço de Diagnóstico por Métodos Gráficos/Dinâmicos                                                                   202408
+123Serviço de Dispensação de Órteses, Próteses e Materiais Especiais                                                       202408
+124Serviço de Endocrinologia                                                                                               202408
+125Serviço de Farmácia                                                                                                     202408
+126Serviço de Fisioterapia                                                                                                 202408
+127Serviço de Atenção à Obesidade                                                                                          202408
+128Serviço de Hemoterapia                                                                                                  202408
+129Servico de Laboratório de Histocompatibilidade                                                                          202408
+130Atenção à Doença Renal Crônica                                                                                          202408
+131Serviço de Oftalmologia                                                                                                 202408
+132Serviço de Oncologia                                                                                                    202408
+133Serviço de Pneumologia                                                                                                  202408
+134Serviço de Práticas Integrativas e Complementares                                                                       202408
+135Serviço de Reabilitação                                                                                                 202408
+136Serviço de Suporte Nutricional                                                                                          202408
+137Serviço de Telemedicina                                                                                                 202408
+138Serviço de Traumato-Ortopedia                                                                                           202408
+139Serviço de Triagem Neonatal                                                                                             202408
+140Serviço de Urgência e Emergência                                                                                        202408
+141Serviço de Vigilância em Saúde                                                                                          202408
+142Serviço de Endoscopia                                                                                                   202408
+143Serviço Móvel de Urgência (exceto SAMU)                                                                                 202408
+144Serviço Posto de Coleta de Materiais Biológicos                                                                         202408
+145Serviço de Diagnóstico por Laboratório Clínico                                                                          202408
+146Serviço de Videolaparoscopia                                                                                            202408
+147Serviço de Apoio a Saúde da Família                                                                                     202408
+148Hospital-Dia                                                                                                            202408
+149Transplante                                                                                                             202408
+150Cirurgia Vascular                                                                                                       202408
+151Medicina Nuclear                                                                                                        202408
+152Atenção à Saúde da População Indígena                                                                                   202408
+153Atenção Especializada no Processo Transexualizador                                                                      202408
+154Serviço de Banco de Tecidos                                                                                             202408
+155Serviço de Traumatologia  Ortopedia                                                                                     202408
+157Serviço de Laboratorio de Protese Dentaria                                                                              202408
+158Serviço de Atenção Integral em Hanseniase                                                                               202408
+159Atenção Primária                                                                                                        202408
+160Teleconsultoria                                                                                                         202408
+161Consultório na Rua                                                                                                      202408
+162Serviço de Terapia Intensiva                                                                                            202408
+163Serviço de Cuidados Intermediários                                                                                      202408
+164Serviço de Órteses,Próteses e Materiais Especiais em Reabilitação                                                       202408
+165Atenção às Pessoas em Situação de Violência Sexual                                                                      202408
+166Serviço de  Análise Laboratorial  de Produtos Sujeitos á  Vigilância Sanitária                                          202408
+167Atendimento Itinerante de Asistência e Ensino em Saúde                                                                  202408
+168Atenção Às Pessoas com Doenças Raras                                                                                    202408
+169Serviço de Atenção em Urologia                                                                                          202408
+170Comissões e Comitês                                                                                                     202408
+173Logística de Imunobiológicos                                                                                            202408
+174Imunização                                                                                                              202408

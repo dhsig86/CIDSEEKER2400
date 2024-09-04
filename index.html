@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta CID-10</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <div class="container">
+        <h1>Consulta CID-10</h1>
+        <p>Digite o nome ou código da doença para pesquisar</p>
+        <input type="text" id="searchInput" placeholder="Digite aqui...">
+        <div class="toggle-container">
+            <input type="checkbox" id="autoSearchToggle">
+            <label for="autoSearchToggle">Busca automática</label>
+        </div>
+        <button id="searchButton">Buscar</button>
+        <button id="reload">Reset </button>
+        <table class="table-results" id="resultTable"></table>
+        <p id="errorMessage" style="display:none;"></p>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

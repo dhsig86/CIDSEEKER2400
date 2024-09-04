@@ -1,0 +1,64 @@
+0401Pequenas cirurgias e cirurgias de pele, tecido subcutâneo e mucosa                                  202408
+0801Ações relacionadas ao estabelecimento                                                               202408
+0201Coleta de material                                                                                  202408
+0701Órteses, próteses e materiais especiais não relacionados ao ato cirúrgico                           202408
+0901Atenção em Oncologia                                                                                202408
+0101Ações coletivas/individuais em saúde                                                                202408
+0301Consultas / Atendimentos / Acompanhamentos                                                          202408
+0501Coleta e exames para fins de doação de orgãos, tecidos e células e de transplante                   202408
+0601Medicamentos de dispensação excepcional                                                             202408
+0702Órteses, próteses e materiais especiais relacionados ao ato cirúrgico                               202408
+0802Ações relacionadas ao atendimento                                                                   202408
+0902Atenção em Cardiologia                                                                              202408
+0202Diagnóstico em laboratório clínico                                                                  202408
+0402Cirurgia de glândulas endócrinas                                                                    202408
+0502Avaliação de morte encefálica                                                                       202408
+0102Vigilância em saúde                                                                                 202408
+0302Fisioterapia                                                                                        202408
+0602Medicamentos estratégicos                                                                           202408
+0303Tratamentos clínicos (outras especialidades)                                                        202408
+0403Cirurgia do sistema nervoso central e periférico                                                    202408
+0503Ações relacionadas à doação de orgãos e tecidos para transplante                                    202408
+0903Atenção em Ortopedia                                                                                202408
+0203Diagnóstico por anatomia patológica e citopatologia                                                 202408
+0603Medicamentos de âmbito hospitalar e urgência                                                        202408
+0803Autorização / regulação                                                                             202408
+0304Tratamento em oncologia                                                                             202408
+0204Diagnóstico por radiologia                                                                          202408
+0904Atenção em Otorrinolaringologia                                                                     202408
+0604Componente especializado da assistência farmacêutica                                                202408
+0504Processamento de tecidos para transplante                                                           202408
+0404Cirurgia das vias aéreas superiores, da face, da cabeça e do pescoço                                202408
+0305Tratamento em nefrologia                                                                            202408
+0205Diagnóstico por ultrasonografia                                                                     202408
+0505Transplante de orgãos, tecidos e células                                                            202408
+0905Atenção em Oftalmologia                                                                             202408
+0405Cirurgia do aparelho da visão                                                                       202408
+0506Acompanhamento e intercorrências no pré e pós-transplante                                           202408
+0306Hemoterapia                                                                                         202408
+0206Diagnóstico por tomografia                                                                          202408
+0406Cirurgia do aparelho circulatório                                                                   202408
+0407Cirurgia do aparelho digestivo, orgãos anexos e parede abdominal                                    202408
+0207Diagnóstico por ressonância magnética                                                               202408
+0307Tratamentos odontológicos                                                                           202408
+0408Cirurgia do sistema osteomuscular                                                                   202408
+0308Tratamento de lesões, envenenamentos e outros, decorrentes de causas externas                       202408
+0208Diagnóstico por medicina nuclear in vivo                                                            202408
+0409Cirurgia do aparelho geniturinário                                                                  202408
+0309Terapias especializadas                                                                             202408
+0209Diagnóstico por endoscopia                                                                          202408
+0410Cirurgia de mama                                                                                    202408
+0310Parto e nascimento                                                                                  202408
+0210Diagnóstico por radiologia intervencionista                                                         202408
+0411Cirurgia obstétrica                                                                                 202408
+0211Métodos diagnósticos em especialidades                                                              202408
+0212Diagnóstico e procedimentos especiais em hemoterapia                                                202408
+0412Cirurgia torácica                                                                                   202408
+0213Diagnóstico em vigilância epidemiológica e ambiental                                                202408
+0413Cirurgia reparadora                                                                                 202408
+0214Diagnóstico por teste rápido                                                                        202408
+0414Bucomaxilofacial                                                                                    202408
+0415Outras cirurgias                                                                                    202408
+0416Cirurgia em oncologia                                                                               202408
+0417Anestesiologia                                                                                      202408
+0418Cirurgia em nefrologia                                                                              202408

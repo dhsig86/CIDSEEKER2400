@@ -1,0 +1,37 @@
+040009Atendimento/acompanhamento em reabilitação física, mental, visual, auditiva e múltiplas deficiências202408
+040013Atendimento/acompanhamento de diagnóstico de doenças endocrinas/metabólicas e nutricionais          202408
+040017Nefrologia                                                                                          202408
+040024Cirurgia do aparelho digestivo, orgãos anexos e parede abdominal(inclui pré e pós operatório)       202408
+040028Outras cirurgias plásticas/reparadoras                                                              202408
+040030Sequenciais                                                                                         202408
+040032Transplantes de orgãos, tecidos e células                                                           202408
+040033Medicamentos para transplante                                                                       202408
+040038OPM para transplantes                                                                               202408
+040041Central Nacional de Regulação de Alta Complexidade (CNRAC)                                          202408
+040044Redesignação e Acompanhamento                                                                       202408
+040049Implementar Cirg. CV Pediátrica                                                                     202408
+040055Transplante - Histocompatibilidade                                                                  202408
+040062Doenças Raras                                                                                       202408
+040063Cadeiras de Rodas                                                                                   202408
+040065Medicamentos em Urgência                                                                            202408
+040066Cirurgias Eletivas - Componente Único                                                               202408
+040067Atenção Especializada em Saúde Auditiva                                                             202408
+040068Terapias Especializadas em Angiologia                                                               202408
+040069Tratamento de Doença Macular                                                                        202408
+040070OPME Não Relacionados ao Ato Cirúrgico                                                              202408
+040071Diagnóstico/tratamento em oncologia                                                                 202408
+040072Diagnóstico de trombofilia em gestante                                                              202408
+040073Reabilitação Pós-COVID-19                                                                           202408
+040074Telemedicina em Urgência                                                                            202408
+040075Fisioterapia Cardiovascular                                                                         202408
+040076Hemodinâmica em atendimento de urgência                                                             202408
+040077Exames Sorológicos e Imunológicos                                                                   202408
+040078QualiSUS Cardio                                                                                     202408
+040079Pré-cirúrgico em Cirurgias Prioritárias                                                             202408
+040080Redução das Filas de Procedimentos Eletivos.                                                        202408
+040081Síndrome Respiratória Aguda Grave - SRAG                                                            202408
+040082Alta Complexidade em Cardiologia                                                                    202408
+040083Cirurgia da Face e do Sistema Estomatognático                                                       202408
+040084Neurocirurgias                                                                                      202408
+040085Exames coprológicos                                                                                 202408
+040086Programa Mais Acesso a Especialistas (PMAE)                                                         202408

@@ -1,0 +1,403 @@
+010101Educação em saúde                                                                                   202408
+090501Ofertas de Cuidados Integrados em Oftalmologia.                                                     202408
+020101Coleta de material por meio de punção/biópsia                                                       202408
+020201Exames bioquimicos                                                                                  202408
+020301Exames citopatológicos                                                                              202408
+020401Exames radiológicos da cabeça e pescoço                                                             202408
+020501Ultra-sonografias do sistema circulatório (qualquer região anatômica)                               202408
+020601Tomografia da cabeça, pescoço e coluna vertebral                                                    202408
+020701RM da cabeça, pescoço e coluna vertebral                                                            202408
+020801Aparelho cardiovascular                                                                             202408
+020901Aparelho digestivo                                                                                  202408
+021001Exames radiológicos de vasos sangüíneos e linfáticos                                                202408
+021101Diagnóstico em angiologia                                                                           202408
+021201Exames do doador/receptor                                                                           202408
+021301Exames relacionados a doenças e agravos de notificação compulsória                                  202408
+021401Teste realizado fora da estrutura de laboratório                                                    202408
+030101Consultas médicas/outros profissionais  de nivel superior                                           202408
+030201Assistência fisioterapêutica em alterações obstétricas, neonatais e uroginecológicas                202408
+030301Tratamento de doenças infecciosas e parasitárias                                                    202408
+030401Radioterapia                                                                                        202408
+030501Tratamento dialítico                                                                                202408
+030601Procedimentos destinados a obtenção do sangue para fins de assistência hemoterapica                 202408
+030701Dentística                                                                                          202408
+030801Traumatismos                                                                                        202408
+030901Terapia nutricional                                                                                 202408
+031001Parto e nascimento                                                                                  202408
+040101Pequenas cirurgias                                                                                  202408
+040201Cirurgia de tireóide e paratireóide                                                                 202408
+040301Trauma e anomalias do desenvolvimento                                                               202408
+040401Cirurgia das vias aéreas superiores e do pescoço                                                    202408
+040501Palpebras e vias lacrimais                                                                          202408
+040601Cirurgia cardiovascular                                                                             202408
+040701Esôfago, estômago e duodeno                                                                         202408
+040801Cintura escapular                                                                                   202408
+040901Rim, ureter e bexiga                                                                                202408
+041001Mama                                                                                                202408
+041101Parto                                                                                               202408
+041201Traqueia e brônquios                                                                                202408
+041301Tratamento de queimados                                                                             202408
+041401Buco-maxilo-facial                                                                                  202408
+041501Múltiplas                                                                                           202408
+041601Urologia                                                                                            202408
+041701Anestesias                                                                                          202408
+041801Acessos para dialise                                                                                202408
+050101Coleta e exames para identificação de doador de células-tronco hematopoéticas (busca nacional)      202408
+050201Avaliação clínica de morte encefálica                                                               202408
+050301Ações relacionadas a doação de orgãos e tecidos para transpalnte                                    202408
+050401Processamento de córnea/esclera                                                                     202408
+050501Transplante de tecidos e células                                                                    202408
+050601Acompanhamento de paciente no pré e pós-transplante                                                 202408
+060101Agentes anticitocinas                                                                               202408
+060201Procoagulantes em coagulopatias hereditárias                                                        202408
+060301Antiinflamatórios                                                                                   202408
+060401Acido Aminosalicilico e Similares                                                                   202408
+070101OPM auxiliares da locomoção                                                                         202408
+070201OPM em neurocirurgia                                                                                202408
+080101Incentivos                                                                                          202408
+080201Diárias                                                                                             202408
+080301Deslocamento/Ajuda de custo                                                                         202408
+090101Ofertas de Cuidados Integrados em Oncologia                                                         202408
+090201Ofertas de Cuidados Integrados em Cardiologia                                                       202408
+090301Ofertas de Cuidados Integrados em Ortopedia                                                         202408
+090401Ofertas de Cuidados Integrados em Otorrinolaringologia.                                             202408
+010201Vigilancia sanitária                                                                                202408
+010102Saúde bucal                                                                                         202408
+080202Outras ações                                                                                        202408
+020102Outras formas de coleta de material                                                                 202408
+020202Exames hematológicos e hemostasia                                                                   202408
+020302Exames anatomopatológicos                                                                           202408
+020402Exames radiológicos da coluna vertebral                                                             202408
+020502Ultra-sonografias dos demais sistemas                                                               202408
+020602Tomografia do torax e membros superiores                                                            202408
+020702RM do torax e membros superiores                                                                    202408
+020802Aparelho digestivo                                                                                  202408
+020902Aparelho urinário                                                                                   202408
+021002Vias biliares                                                                                       202408
+021102Diagnóstico em cardiologia                                                                          202408
+021202Procedimentos especiais em hemoterápica                                                             202408
+021302Exames relacionados ao meio ambiente                                                                202408
+030102Atendimento/Acompanhamento em saúde do trabalhador                                                  202408
+030202Assistência fisioterapêutica em alterações oncológicas                                              202408
+030302Tratamento de doenças do sangue, orgãos hematopoéticos e alguns transtornos imunitários             202408
+030402Quimioterapia paliativa - adulto                                                                    202408
+030502Tratamento em nefrologia em geral                                                                   202408
+030602Medicina transfusional                                                                              202408
+030702Endodontia                                                                                          202408
+030802Intoxicações e envenenamentos                                                                       202408
+030902Terapias em doenças alérgicas                                                                       202408
+040102Cirurgias de pele, tecido subcutâneo e mucosa                                                       202408
+040202Cirurgia da suprarrenal                                                                             202408
+040302Coluna e nervos periféricos                                                                         202408
+040402Cirurgia da face e do sistema estomatognático                                                       202408
+040502Músculos oculomotores                                                                               202408
+040602Cirurgia vascular                                                                                   202408
+040702Intestinos , reto e anus                                                                            202408
+040802Membros superiores                                                                                  202408
+040902Uretra                                                                                              202408
+041102Outras cirurgias relacionadas com o estado gestacional                                              202408
+041202Mediastino                                                                                          202408
+041302Reparadora em oncológica                                                                            202408
+041402Cirurgia oral                                                                                       202408
+041502Sequenciais                                                                                         202408
+041602Sistema linfático                                                                                   202408
+041802Intervençõess cirúrgicas em acessos para diálise                                                    202408
+050102Exames de histocompatibilidade para identificação de receptor de células-tronco hematopoéticas      202408
+050302Cirurgias para transplante - doador vivo                                                            202408
+050402Processamento de tecido ósteo-fascio-condro-ligamentoso humano                                      202408
+050502Transplante de orgãos                                                                               202408
+050602Intercorrência pós transplante                                                                      202408
+060102Antagonista do glutamato                                                                            202408
+060302Imunossupressores                                                                                   202408
+060402Agentes Quelantes de Ferro                                                                          202408
+070102OPM ortopédicas                                                                                     202408
+070202OPM em cirurgia buco-maxilo-facial                                                                  202408
+010202Vigilância em saúde do trabalhador                                                                  202408
+010103Visita domiciliar                                                                                   202408
+070203OPM em ortopedia                                                                                    202408
+020203Exames sorológicos e imunológicos                                                                   202408
+020403Exames radiológicos do torax e mediastino                                                           202408
+020603Tomografia do abdomen, pelve e membros inferiores                                                   202408
+020703RM do abdomen, pelve e membros inferiores                                                           202408
+020803Aparelho endócrino                                                                                  202408
+020903Aparelho ginecológico                                                                               202408
+021103Diagnóstico cinético funcional                                                                      202408
+030103Atendimento pré-hospitalar de urgência                                                              202408
+030203Assistência fisioterapêutica em oftalmologia                                                        202408
+030303Tratamento de doenças endocrinas, metabólicas e nutricionais                                        202408
+030403Quimioterapia para controle temporário de doença - adulto                                           202408
+030703Periodontia clínica                                                                                 202408
+030803Outras consequências de causas externas                                                             202408
+030903Terapias do aparelho geniturinário                                                                  202408
+040303Tumores do sistema nervoso                                                                          202408
+040403Anomalia Crânio e bucomaxilo facial                                                                 202408
+040503Corpo vítreo, retina, coróide e esclera                                                             202408
+040603Cardiologia intervencionista                                                                        202408
+040703Pancreas, baco, figado e vias biliares                                                              202408
+040803Coluna vertebral e caixa torácica                                                                   202408
+040903Próstata e vesicula seminal                                                                         202408
+041203Pleura                                                                                              202408
+041303Reparadora para lipodistrofia                                                                       202408
+041503Politraumatizados                                                                                   202408
+041603Cabeça e pescoço                                                                                    202408
+050103Coleta e exames para ident. de doador de célula-tronco hematopoéticas (busca internacional/nacional)202408
+050303Manutenção e retirada de orgãos e tecidos para transplante                                          202408
+050403Processamento de válvula/tubo valvado cardíaco humano                                               202408
+060103Antianêmicos não hormonais                                                                          202408
+060303Imunoterápicos                                                                                      202408
+060403Agonistas da Dopamina/inibidor da prolactina                                                        202408
+070103OPM em Otorrinolaringologia.                                                                        202408
+010203Vigilância epidemiológica - vacinas                                                                 202408
+010104Alimentação e nutrição                                                                              202408
+070204OPM em assistência cardiovascular                                                                   202408
+020404Exames radiológicos da cintura escapular e dos membros superiores                                   202408
+020804Aparelho geniturinário                                                                              202408
+020904Aparelho respiratório                                                                               202408
+021104Diagnóstico em ginecologia-obstetrícia                                                              202408
+030104Outros atendimentos realizados por profissionais de níveis superior                                 202408
+030204Assistência fisioterapêutica cardiovasculares e pneumo-funcionais                                   202408
+030304Tratamento de doenças do sistema nervoso central e periférico                                       202408
+030404Quimioterapia prévia (neoadjuvante/citorredutora)- adulto                                           202408
+030704Moldagem/Manutenção                                                                                 202408
+030804Complicações consequentes a procedimentos em saúde                                                  202408
+030904Terapias do aparelho cardiovascular                                                                 202408
+040304Neurocirurgias vasculares                                                                           202408
+040504Cavidade orbitária e globo ocular                                                                   202408
+040604Cirurgia endovascular                                                                               202408
+040704Parede e cavidade abdominal                                                                         202408
+040804Cintura pélvica                                                                                     202408
+040904Bolsa escrotal, testículos e cordão espermático                                                     202408
+041204Parede torácica                                                                                     202408
+041304Outras cirurgias plásticas/reparadoras                                                              202408
+041504Procedimentos cirúrgicos gerais                                                                     202408
+041604Esôfago-gastro duodenal e vísceras anexas e outros orgãos intra-abdominais                          202408
+050104Exames imunogenéticos/histocompatibilidade para identificação de doador de orgãos                   202408
+050304Açõess complementares destinadas a doação de orgãos, tecidos e células.                             202408
+050404Processamento de pele humana                                                                        202408
+060104Antianêmicos hormonais                                                                              202408
+060304Reguladores de atividade hormonal - inibidores da prolactina                                        202408
+060404Agonistas seletivos dos receptores beta 2 adrenérgicos                                              202408
+070104OPM oftalmológicas                                                                                  202408
+020204Exames coprológicos                                                                                 202408
+010105Praticas integrativas/complementares                                                                202408
+020205Exames de uroanálise                                                                                202408
+020405Exames radiológicos do abdomen e pelve                                                              202408
+020805Aparelho esquelético                                                                                202408
+021105Diagnóstico em neurologia                                                                           202408
+030105Atenção domiciliar                                                                                  202408
+030205Assistência fisioterapêutica nas disfunções musculo esqueleticas (todas as origens)                 202408
+030305Tratamento de doenças do aparelho da visão                                                          202408
+030405Quimioterapia adjuvante (profilática) - adulto                                                      202408
+030905Práticas integrativas e complementares                                                              202408
+040305Tratamento neurocirúrgico da dor funcional                                                          202408
+040505Conjuntiva, córnea, câmara anterior, íris, corpo ciliar e cristalino                                202408
+040605Eletrofisiologia                                                                                    202408
+040805Membros inferiores                                                                                  202408
+040905Pênis                                                                                               202408
+041205Pulmão                                                                                              202408
+041605Colo-proctologia                                                                                    202408
+050105Exames imunogenéticos/histocompatibilidade para identificação de receptor de orgãos                 202408
+060105Antiasmáticos                                                                                       202408
+060305Antitrombóticos                                                                                     202408
+060405Alcalóides naturais do ópio                                                                         202408
+070105OPM em gastroenterologia                                                                            202408
+070205OPM comuns                                                                                          202408
+020806Aparelho nervoso                                                                                    202408
+060406Alimentos dietéticos isentos de fenilalanina                                                        202408
+030906Acessos venosos                                                                                     202408
+040306Investigação e cirurgia da epilepsia                                                                202408
+020406Exames radiológicos da cintura pélvica e dos membros inferiores                                     202408
+030306Tratamento de doenças cardiovasculares                                                              202408
+020206Exames hormonais                                                                                    202408
+060306Tensiolítico alveolar                                                                               202408
+060106Antibióticos                                                                                        202408
+021106Diagnóstico em oftalmologia                                                                         202408
+070206OPM em urologia                                                                                     202408
+050106Exames gráficos ou por imagem para diagnóstico de morte encefálica                                  202408
+041606Ginecologia                                                                                         202408
+030106Consulta/Atendimento ás urgências (em geral)                                                        202408
+070106OPM em urologia                                                                                     202408
+040906Útero e anexos                                                                                      202408
+040806Gerais                                                                                              202408
+030206Assistência fisioterapêutica nas alterações em neurologia                                           202408
+030406Quimioterapia curativa - adulto                                                                     202408
+030407Quimioterapia de tumores de crianca e adolescente                                                   202408
+030307Tratamento de doenças do aparelho digestivo                                                         202408
+030207Assistência fisioterapêutica em queimados                                                           202408
+030107Atendimento/acompanhamento em reabilitação física, mental, visual e múltiplas deficiências          202408
+021107Diagnóstico em otorrinolaringologia/fonoaudiologia                                                  202408
+020807Aparelho respiratório                                                                               202408
+020207Exames toxicológicos ou de monitorização terapêutica                                                202408
+070207OPM em cirurgias oftálmicas                                                                         202408
+070107OPM em odontologia                                                                                  202408
+060407Aminas Terciárias                                                                                   202408
+060307Hemoderivados                                                                                       202408
+060107Antiepiléticos                                                                                      202408
+050107Outros exames complementares para doação de orgãos, tecidos e células                               202408
+041607Oftalmologia                                                                                        202408
+040907Vagina, vulva e períneo                                                                             202408
+040307Tratamento neuro-endovascular                                                                       202408
+030907Angiologia                                                                                          202408
+060108Antiinflamatórios                                                                                   202408
+021108Diagnóstico em pneumologia                                                                          202408
+041608Pele e cirurgia plástica                                                                            202408
+030308Tratamento de doenças da pele e do tecido  subcutâneo                                               202408
+060408Aminoquinolinas                                                                                     202408
+040308Neurocirurgia funcional estereotáxica                                                               202408
+050108Exames complementares para pacientes transplantados                                                 202408
+030108Atendimento/Acompanhamento psicossocial                                                             202408
+070208OPM em cirurgia plástica/reparadora                                                                 202408
+040908Atenção Especializada à Saúde da População Trans.                                                   202408
+020208Exames microbiológicos                                                                              202408
+020808Aparelho hematológico                                                                               202408
+030408Quimioterapia - procedimentos especiais                                                             202408
+060308Medicamentos para transplante                                                                       202408
+070108OPM de anomalias buco-maxilo-facial                                                                 202408
+030409Medicina nuclear - terapêutica oncológica                                                           202408
+030309Tratamento de doenças do sistema osteomuscular e do tecido conjuntivo                               202408
+070209OPM em cirurgia de otorrinolaringologia                                                             202408
+030109Atendimento/Acompanhamento em saúde do idoso                                                        202408
+060409Análogos da mostarda nitrogenada                                                                    202408
+020209Exames em outros líquidos biológicos                                                                202408
+060109Antiinflamatórios intestinais                                                                       202408
+020809Outros métodos de diagnóstico em medicina nuclear in vivo                                           202408
+041609Ossos e partes moles                                                                                202408
+021109Diagnóstico em urologia                                                                             202408
+070109Substituição/Troca em órteses/próteses                                                              202408
+030310Tratamento durante a gestação, parto e puerpério                                                    202408
+030410Gerais em oncologia                                                                                 202408
+070110OPM em queimados                                                                                    202408
+021110Diagnóstico em psicologia-psiquiatria                                                               202408
+041610Neurocirurgia                                                                                       202408
+060410Vasopressina e Análogos                                                                             202408
+030110Atendimentos de enfermagem (em geral)                                                               202408
+070210OPM em nefrologia                                                                                   202408
+060110Antiparkinsonianos                                                                                  202408
+020210Exames de genética                                                                                  202408
+030111Atendimento/Acompanhamento queimados                                                                202408
+021111Diagnóstico em cardiologia intervencionista                                                         202408
+020211Exames para triagem neonatal                                                                        202408
+070211OPM em queimados                                                                                    202408
+060411Análogos do hormônio liberador de gonadotrofina                                                     202408
+060111Antipsicóticos                                                                                      202408
+041611Cirurgia torácica                                                                                   202408
+030311Tratamento de malformações congênitas, deformidades e anomalias cromossômicas                       202408
+060412Antiandrogênios                                                                                     202408
+021112Diagnóstico em traumato-ortopedia                                                                   202408
+070212OPM para transplantes                                                                               202408
+060112Antivirais                                                                                          202408
+020212Exames imunohematológicos                                                                           202408
+030112Atendimento/acompanhamento de diagnóstico de doenças endocrinas/metabolicas e nutricionais          202408
+041612Mastologia                                                                                          202408
+030312Tratamentos por medicina nuclear in vivo                                                            202408
+060113Bloqueadores neuromusculares                                                                        202408
+041613Otorrinolaringologia                                                                                202408
+030113Acompanhamento em outras especialidades                                                             202408
+030313Tratamento de pacientes sob cuidados prolongados                                                    202408
+060413Anticolinesterases                                                                                  202408
+060414Antigonadotrofinas e agentes similares                                                              202408
+060114Ceratolíticos sistêmicos                                                                            202408
+030114Cuidados Paliativos                                                                                 202408
+030314Tratamento de doenças do ouvido/apófise mastóide e vias aéreas                                      202408
+060115Complementos alimentares para fenilcetonúricos                                                      202408
+060415Barbitúricos e derivados                                                                            202408
+030315Tratamento das doenças do aparelho geniturinário                                                    202408
+030115Atenção Especializada à Saúde da População Trans.                                                   202408
+060116Fatores de crescimento mielóides                                                                    202408
+030116Atenção Especializada à Pessoa com Falência Intestinal                                              202408
+030316Tratamento de algumas afecçõess originadas no período neonatal                                      202408
+060416Bisfosfonados                                                                                       202408
+060417Compostos de Alumínio                                                                               202408
+060117Hipnoanalgésicos                                                                                    202408
+030317Tratamento dos transtornos mentais e comportamentais                                                202408
+060118Hipolipemiantes                                                                                     202408
+060418Derivados da benzodiazepina                                                                         202408
+030318Tratamento HIV/Aids                                                                                 202408
+060119Imunomoduladores                                                                                    202408
+060419Derivados de ácidos graxos                                                                          202408
+030319Reabilitação                                                                                        202408
+060120Imunossupressores                                                                                   202408
+060420Derivados do adamantano                                                                             202408
+060121Imunoterapicos                                                                                      202408
+060421Derivados do indol                                                                                  202408
+060122Inibidores da acetilcolinesterase                                                                   202408
+060422Derivados da succinimida                                                                            202408
+060123Mucolíticos                                                                                         202408
+060423Diazepinas, oxazepinas e tiazepinas                                                                 202408
+060124Quelantes do ferro                                                                                  202408
+060424 Enzimas                                                                                            202408
+060125Outros quelantes                                                                                    202408
+060425Fatores de estimulação de colônias                                                                  202408
+060126Reguladores da atividade hormonal-agonistas da vasopressina                                         202408
+060426Ferro trivalente, preparações parenterais                                                           202408
+060127Reguladores da atividade hormonal-analogos do GNRH                                                  202408
+060427Fibratos, Acido Nicotínico e seus derivados                                                         202408
+060128Reguladores da atividade hormonal-antiandrogênicos                                                  202408
+060428Glicocorticóides                                                                                    202408
+060429Somatostatina e Análogos                                                                            202408
+060129Reguladores da atividade hormonal-inibidores das gonadotrofinas                                     202408
+060130Reguladores da atividade hormonal-inibidores do hormônio do crescimento                             202408
+060430 Imunoglobulinas específicas                                                                        202408
+060131Reguladores da atividade hormonal-inibidores de prolactina                                          202408
+060431Imunoglobulinas, humana normal                                                                      202408
+060132Reguladores da atividade hormonal-hormonios de crescimento                                          202408
+060432Imunossupressores seletivos                                                                         202408
+060433Inibidores da agregação plaquetária, excluindo heparina                                             202408
+060133Reguladores da atividade hormonal-hormonios tireoidianos                                            202408
+060134Reguladores da atividade hormonal-mineralocorticóides                                               202408
+060434Inibidores da calcineurina                                                                          202408
+060135Reguladores da homeostase do cálcio                                                                 202408
+060435Inibidores da fosfodiesterase                                                                       202408
+060136Repositores enzimáticos                                                                             202408
+060436Inibidores da HMG-CoA redutase                                                                      202408
+060437Inibidores da monoamino oxidase tipo b                                                              202408
+060438Inibidores do fator de necrose tumoral alfa (TNF-a)                                                 202408
+060439Interferonas                                                                                        202408
+060440Medicamentos para tratamento da hipercalemia e hiperfosfatemia                                      202408
+060441Medicamentos utilizados na dependência de opióides                                                  202408
+060442Mineralocorticóides                                                                                 202408
+060443Modulador seletivo de receptor de estrogênio                                                        202408
+060444Mucolíticos                                                                                         202408
+060445Nucleosídeo e nucleotídeo (excl. inibidores da transcriptase reversa)                               202408
+060446Nucleosídeo e nucleotídeo, Inibidor da transcriptase reversa                                        202408
+060447Outras preparações antianêmicas                                                                     202408
+060448Outros agentes citotóxicos                                                                          202408
+060449Outros agentes dopaminérgicos                                                                       202408
+060450Outros antiepilépticos                                                                              202408
+060451Outros antipsicóticos                                                                               202408
+060452Outros imunoestimulantes                                                                            202408
+060453Outros imunossupressores                                                                            202408
+060454Outros medicamentos do sistema nervoso                                                              202408
+060455Outros relaxantes musculares de ação periférica                                                     202408
+060456Penicilamina e agentes similares                                                                    202408
+060457Preparações de calcitonina                                                                          202408
+060458Preparações de enzimas                                                                              202408
+060459Retinóides para tratamento da acne                                                                  202408
+060460Retinóides para tratamento da psoríase                                                              202408
+060461Somatropina e agonistas da somatropina                                                              202408
+060462Vitamina D e análogos, incluido combinação dos dois                                                 202408
+060463Produtos diversos para o trato alimentar ou metabolismo                                             202408
+060464Inibidores de Protease                                                                              202408
+060465Análogos das Prostaglandinas                                                                        202408
+060466Inibidores da Anidrase Carbonica                                                                    202408
+060467Simpatomiméticos na Terapia de Glaucoma                                                             202408
+060468Anticorpos Monoclonais                                                                              202408
+060469Inibidores de Interleucinas                                                                         202408
+060470Outros Antipsoriaticos de Uso Tópico                                                                202408
+060471Corticoesteróides de Potência Muito Alta (Grupo IV)                                                 202408
+060472Derivados do Ácido Propriônico                                                                      202408
+060473Parassimpaticomiméticos                                                                             202408
+060474Agentes Beta Bloqueadores                                                                           202408
+060475Outros Anti-hipertensivos                                                                           202408
+060476Outros Antivirais                                                                                   202408
+060477Outros Agentes Antiparatireoide                                                                     202408
+060478Insulinas Análogas de Ação Rápida de Uso Injetável                                                  202408
+060479Outras Drogas para Desordem do Sistema Músculo Esquelético                                          202408
+060480Agentes antitrombóticos                                                                             202408
+060481Outros Aminoglicosídeos                                                                             202408
+060482Inibidores do co-transportador 2 de sódio-glicose (SGLT2)                                           202408
+060483Agentes que atuam no sistema renina- angiotensina                                                   202408
+060484Outras drogas sistêmicas para doenças respiratórias obstrutivas                                     202408
+060485Adrenérgicos em combinação com anticolinérgicos, incluídas combinações triplas com corticosteroides 202408
+060486Outros Produtos para o Sistema Respiratório.                                                        202408
+060487Outros medicamentos afetando a estrutura e a mineralização óssea                                    202408

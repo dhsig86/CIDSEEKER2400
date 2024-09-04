@@ -1,0 +1,411 @@
+168001Atenção Especializada Em Doenças Raras                                                                                                                202408
+169001Urologia em Geral                                                                                                                                     202408
+170001Núcleo de Segurança do Paciente                                                                                                                       202408
+173001Recebimento e Inspeção                                                                                                                                202408
+174001Indivíduos em Geral                                                                                                                                   202408
+100001Atendimento em presídio até 100 presos                                                                                                                202408
+101001Saúde da família                                                                                                                                      202408
+102001Estratégia de Agentes Comunitários de Saúde - EACS                                                                                                    202408
+103001Ambulância de transporte                                                                                                                              202408
+104001Central de Regulação de Internações Hospitalares                                                                                                      202408
+105001Neurocirurgia do trauma e anomalias do desenvolvimento                                                                                                202408
+106001Testagem e aconselhamento                                                                                                                             202408
+108001Atendimento Assistencial                                                                                                                              202408
+109001Unidade sócio-educativa com até 40 adolecentes                                                                                                        202408
+110001Atenção à infertilidade                                                                                                                               202408
+111001Diagnóstico e tratamento                                                                                                                              202408
+112001Acompanhamento do pré-natal de risco habitual                                                                                                         202408
+113001Assitência Domiciliar                                                                                                                                 202408
+114001Dentística                                                                                                                                            202408
+115001Residência terapêutica em saúde mental                                                                                                                202408
+116001Eletrofisiologia                                                                                                                                      202408
+117001Tratamento da lipodistrofia do portador de HIV / AIDS                                                                                                 202408
+118001Cirurgia torácica                                                                                                                                     202408
+119001Abordagem e tratamento do fumante                                                                                                                     202408
+120001Exames anatomopatológicos                                                                                                                             202408
+121001Radiologia                                                                                                                                            202408
+122001Teste Ergométrico                                                                                                                                     202408
+124001Diagnóstico/Tratamento das doenças endócrinas, metabólicas e nutricionais                                                                             202408
+125001Dispensação de Medicamentos do Componente Especializado da Assistência Farmaceutica.                                                                  202408
+126001Assistência fisioterapêutica em alterações obstétricas, neonatais e uroginecológicas                                                                  202408
+127001Tratamento clínico, cirúrgico, reparador e acompanhamento ao obeso                                                                                    202408
+128001Procedimentos destinados à obtenção do sangue para fins de assitência hemoterápica                                                                    202408
+129001Exames de histocompatibilidade por meio de sorologia                                                                                                  202408
+130001Tratamento Dialítico-Hemodiálise                                                                                                                      202408
+131001Diagnóstico em oftalmologia                                                                                                                           202408
+132001Oncologia pediátrica                                                                                                                                  202408
+133001Tratamento de Doenças das Vias Aéreas Inferiores                                                                                                      202408
+134001Acupuntura                                                                                                                                            202408
+135001Reabilitação Visual                                                                                                                                   202408
+136001Enteral                                                                                                                                               202408
+137001Exame eletrocardiográfico por telemedicina                                                                                                            202408
+138001Diagnóstico e tratamento em cintura escapular                                                                                                         202408
+139001Tratamento de recém-nascido com hipotireoidismo e fenilcetonuria                                                                                      202408
+141001Vigilância epidemiológica                                                                                                                             202408
+142001Do aparelho digestivo                                                                                                                                 202408
+143001Transporte terrestre                                                                                                                                  202408
+144001Coleta realizada fora das estrutura laboratorial                                                                                                      202408
+145001Exames Bioquimicos                                                                                                                                    202408
+146001Diagnóstica                                                                                                                                           202408
+147001NASF 1                                                                                                                                                202408
+148001Saúde mental                                                                                                                                          202408
+149001Rim                                                                                                                                                   202408
+150001Fístula arteriovenosa sem enxerto                                                                                                                     202408
+151001Medicina nuclear in vivo                                                                                                                              202408
+152001Atenção Básica à Populações Indígenas                                                                                                                 202408
+153001Acompanhamento Clínico, pré e pós operatório e hormonioterapia.                                                                                       202408
+154001Banco de valvula cardiaca humana                                                                                                                      202408
+155001Serviço de Traumatologia e Ortopedia                                                                                                                  202408
+157001Laboratorio Regional de Protese Dentaria                                                                                                              202408
+158001Serviço de Atenção Integral em Hanseniase Tipo I                                                                                                      202408
+159001Atenção Primária                                                                                                                                      202408
+160001Teleconsultoria Assíncrona                                                                                                                            202408
+161001Equipe de Consultório na Rua - Modalidade I                                                                                                           202408
+162001ADULTO                                                                                                                                                202408
+163001NEONATAL CONVENCIONAL                                                                                                                                 202408
+164001Dispensação de OPM Auxiliares de Locomoção e Ortopédicas                                                                                              202408
+165001Referência para Atenção Integral às Pessoas em Situação de Violência Sexual                                                                           202408
+166001Água de Consumo                                                                                                                                       202408
+167001ODONTOLOGIA - PROJETO SAÚDE NA ESCOLA (PSE)                                                                                                           202408
+100002Atendimento em manicômio até 100 presos                                                                                                               202408
+101002Saúde bucal MI                                                                                                                                        202408
+102002Estratégia de Agentes Comunitários de Saúde com Saúde Bucal - (modalidade I)                                                                          202408
+103002Unidade de suporte básico de vida terrestre (USB)                                                                                                     202408
+104002Cental de Regulação de Consultas e Exames                                                                                                             202408
+105002Coluna e nervos periféricos                                                                                                                           202408
+106002Diagnóstico e tratamento                                                                                                                              202408
+108002Centro de referência em saúde do trabalhador CEREST estadual                                                                                          202408
+109002Unidade sócio-educativa com de 41 a 100 adolecentes                                                                                                   202408
+110002Contracepção clínica                                                                                                                                  202408
+111002Tratamento multidrogas resistentes                                                                                                                    202408
+112002Acompanhamento do pré-natal de alto risco                                                                                                             202408
+113002Internação Domiciliar                                                                                                                                 202408
+114002Endodontia                                                                                                                                            202408
+115002Atendimento psicossocial                                                                                                                              202408
+116002Cirurgia cardiovascular (adulto)                                                                                                                      202408
+117002Tratamento em queimados                                                                                                                               202408
+120002Exames citopatológicos                                                                                                                                202408
+121002Ultra-sonografia                                                                                                                                      202408
+122002Teste de Holter                                                                                                                                       202408
+124002Cirurgia de glândulas endócrinas                                                                                                                      202408
+125002Farmácia Popular                                                                                                                                      202408
+126002Assistência fisioterapêutica em alterações oncológicas                                                                                                202408
+128002Diagnóstico em hemoterapia                                                                                                                            202408
+129002Exames de histocompatibilidade por sorologia e biologia                                                                                               202408
+131002Tratamento clínico do aparelho da visão                                                                                                               202408
+132002Hematologia                                                                                                                                           202408
+133002Diagnóstico em Pneumologia                                                                                                                            202408
+134002Fitoterapia                                                                                                                                           202408
+135002Reabilitação Intelectual                                                                                                                              202408
+136002Enteral/Parenteral                                                                                                                                    202408
+138002Diagnóstico e tratamento em membros superiores                                                                                                        202408
+139002Tratamento de recém-nascido com doenças falciformes                                                                                                   202408
+141002Vigilância sanitária                                                                                                                                  202408
+142002Do aparelho respiratório                                                                                                                              202408
+143002Transporte aéreo                                                                                                                                      202408
+145002Exames hematológicos e hemostasia                                                                                                                     202408
+146002Cirúrgica                                                                                                                                             202408
+147002NASF 2                                                                                                                                                202408
+148002AIDS                                                                                                                                                  202408
+149002Medula óssea                                                                                                                                          202408
+150002Fístula arteriovenosa com enxerto                                                                                                                     202408
+151002Medicina nuclear in vitro                                                                                                                             202408
+153002Cirurgia e Acompanhamento pré e pós oreratório                                                                                                        202408
+154002Banco de tecido musculo esqueletico                                                                                                                   202408
+155002Serviço de Traumatologia e Ortopedia Pediátrica (até 21 anos de idade)                                                                                202408
+158002Serviço de Atenção Integral em Hanseniase Tipo II                                                                                                     202408
+159002Atenção Básica com Saúde Bucal                                                                                                                        202408
+160002Teleconsultoria Síncrona                                                                                                                              202408
+161002Equipe de Consultório na Rua - Modalidade II                                                                                                          202408
+162002NEONATAL                                                                                                                                              202408
+163002NEONATAL CANGURU                                                                                                                                      202408
+164002Manutenção e Adaptação de OPM Auxiliares de Locomoção e Ortopédicas                                                                                   202408
+165002Serviço de Referência para Atenção Integral à Saúde de Adolescentes em Situação de Violência Sexual                                                   202408
+166002Água de Ambiental                                                                                                                                     202408
+167002ODONTOLOGIA - PROJETO BRASIL ALFABETIZADO (PBA)                                                                                                       202408
+168002Referência em Doenças Raras                                                                                                                           202408
+169002Litotripsia                                                                                                                                           202408
+173002Armazenamento e Controle                                                                                                                              202408
+174002Grupos Especiais                                                                                                                                      202408
+164003Dispensação de OPM Ortopédica                                                                                                                         202408
+116003Cirurgia cardiovascular (Pediátrico)                                                                                                                  202408
+166003Água de Hemodiálise                                                                                                                                   202408
+167003OFTALMOLOGIA - PROJETO SAÚDE NA ESCOLA (PSE)                                                                                                          202408
+173003Distribuição                                                                                                                                          202408
+139003Tratamento de recém-nascido com fibrose cística                                                                                                       202408
+141003Vigilância ambiental                                                                                                                                  202408
+142003Do aparelho urinário                                                                                                                                  202408
+143003Transporte marítimo                                                                                                                                   202408
+145003Exames sorológicos e imunológicos                                                                                                                     202408
+147003NASF Intermunicipal                                                                                                                                   202408
+148003Geriátrico                                                                                                                                            202408
+149003Coração                                                                                                                                               202408
+151003Medicina nuclear in vivo por telemedicina                                                                                                             202408
+155003Serviço de Traumatologia e Ortopedia de Urgência                                                                                                      202408
+158003Serviço de Atenção Integral em Hanseniase Tipo III                                                                                                    202408
+159003Academia da Saúde                                                                                                                                     202408
+160003Segunda Opinião Formativa                                                                                                                             202408
+161003Equipe de Consultório na Rua - Modalidade III                                                                                                         202408
+162003PEDIÁTRICO                                                                                                                                            202408
+163003PEDIÁTRICO                                                                                                                                            202408
+117003Tratamento da lipoatrofia facial do portador de HIV / AIDS                                                                                            202408
+120003Monitoramento Externo da Qualidade dos Exames Citopatologicos do Colo do Útero                                                                        202408
+121003Tomografia computadorizada                                                                                                                            202408
+122003Exame Eletrocardiográfico                                                                                                                             202408
+125003Farmácia com manipulação homeopática                                                                                                                  202408
+126003Assistência fisioterapêutica em oftalmologia                                                                                                          202408
+128003Procedimentos especiais em hemoterapia                                                                                                                202408
+130003Confeccção/Intervenção de Acessos para Diálise                                                                                                        202408
+131003Tratamento cirúrgico do aparelho da visão                                                                                                             202408
+132003Oncologia clínica                                                                                                                                     202408
+133003Diagnóstico em Pneumologia por Telemedicina                                                                                                           202408
+134003Outras Práticas em Medicina Tradicional Chinesa                                                                                                       202408
+135003Reabilitação Física                                                                                                                                   202408
+136003Enteral/Parenteral, com manipulação/fabricação                                                                                                        202408
+138003Diagnóstico e tratamento em coluna vertebral e caixa torácica                                                                                         202408
+100003Atendimento em presídio acima de 100 presos                                                                                                           202408
+101003Saúde bucal MII                                                                                                                                       202408
+102003Estratégia de Agentes Comunitários de Saúde com Saúde Bucal - (modalidade II)                                                                         202408
+103003Unidade de suporte avançado de vida terrestre (USA)                                                                                                   202408
+104003Central de Regulação de Urgências                                                                                                                     202408
+105003Tumores do sistema nervoso                                                                                                                            202408
+106003Diagnóstico, tratamento e capacitação técnica                                                                                                         202408
+108003Vigilância em Saúde do Trabalhador (VISAT)                                                                                                            202408
+109003Unidade sócio-educativa com de 101 a 180 adolecentes                                                                                                  202408
+110003Laqueadura                                                                                                                                            202408
+112003Parto em gestação de risco habitual                                                                                                                   202408
+113003Equipe Multidisciplinar de Atenção Domiciliar - EMAD                                                                                                  202408
+114003Periodontia clínica                                                                                                                                   202408
+115003Serviço Hospitalar para Atenção a Saúde Mental                                                                                                        202408
+165003Serviço de Referência para Atenção Integral à Saúde de Crianças em Situação de Violência Sexual                                                       202408
+163004ADULTO                                                                                                                                                202408
+164004Manutenção e Adaptação de OPM Ortopédica                                                                                                              202408
+165004Serviço de Referência para Atenção Integral à Saúde de Homens em Situação de Violência Sexual                                                         202408
+166004Água Mineral                                                                                                                                          202408
+167004OFTALMOLOGIA - PROJETO BRASIL ALFABETIZADO (PBA)                                                                                                      202408
+173004Transporte                                                                                                                                            202408
+139004Tratamento de recém-nascido com outras doenças congênitas                                                                                             202408
+140004Estabilização de paciente crítico/grave                                                                                                               202408
+141004Núcleo de vigilância hospitalar                                                                                                                       202408
+142004Do aparelho ginecológico                                                                                                                              202408
+145004Exames coprológicos                                                                                                                                   202408
+147004NASF 3                                                                                                                                                202408
+148004Fibrose cística                                                                                                                                       202408
+149004Pulmão                                                                                                                                                202408
+152004Saneamento a Populações Indígenas                                                                                                                     202408
+159004Estratégia de Saúde da Família                                                                                                                        202408
+160004TELEDIAGNOSTICO                                                                                                                                       202408
+162004QUEIMADOS                                                                                                                                             202408
+116004Cirurgia vascular                                                                                                                                     202408
+121004Ressonância magnética                                                                                                                                 202408
+122004Exame Eletroencefalográfico                                                                                                                           202408
+125004Dispensação de medicamentos estratégicos                                                                                                              202408
+126004Assistência fisioterapêutica cardiovasculares e pneumo-funcionais                                                                                     202408
+128004Medicina transfusional                                                                                                                                202408
+130004Tratamento Nefrologia em Geral                                                                                                                        202408
+131004Projeto Olhar Brasil                                                                                                                                  202408
+132004Radioterapia                                                                                                                                          202408
+134004Práticas Corpo-mente                                                                                                                                  202408
+135004Reabilitação visual/mental/múltiplas deficiências                                                                                                     202408
+138004Diagnóstico e tratamento em cintura pélvica                                                                                                           202408
+100004Atendimento em manicômio acima de 100 presos                                                                                                          202408
+101004Saúde da Família para a População Ribeirinha                                                                                                          202408
+104004Unidade de autorizações de TFD intermunicipais                                                                                                        202408
+105004Neurocirurgia vascular                                                                                                                                202408
+106004Assistência Domiciliar Terapêutica em AIDS-ADT                                                                                                        202408
+107004Diagnóstico em Audiologia/Otologia                                                                                                                    202408
+109004Unidade sócio-educativa com mais de 180 adolecentes                                                                                                   202408
+110004Vasectomia                                                                                                                                            202408
+112004Parto em gestação de alto risco                                                                                                                       202408
+113004Equipe Multidisciplinar de Apoio - EMAP                                                                                                               202408
+114004Moldagem/Manutenção                                                                                                                                   202408
+115004Serviço Residencial Terapêutico Tipo I - SRT tipo I                                                                                                   202408
+164005Dispensação de OPM Auditiva                                                                                                                           202408
+115005Serviço Residencial Terapêutico Tipo II - SRT tipo II                                                                                                 202408
+166005Alimentos                                                                                                                                             202408
+138005Diagnóstico e tratamento em membros inferiores                                                                                                        202408
+139005Acompanhamento a pacientes com diagnósticos de Hiperplasia Adrenal Congênita                                                                          202408
+140005Atendimento ao paciente com Acidente Vascular Cerebral (AVC)                                                                                          202408
+141005Vigilância de Zoonoses                                                                                                                                202408
+145005Exames de uroanálise                                                                                                                                  202408
+148005Cirúrgico / Diagnóstico                                                                                                                               202408
+149005Córnea / Esclera                                                                                                                                      202408
+152005Atenção Especializada a Populações Indígenas                                                                                                          202408
+159005Saúde Bucal                                                                                                                                           202408
+160005TELE-EDUCACAO                                                                                                                                         202408
+162005DOENÇA CORONARIANA (UCO)                                                                                                                              202408
+116005Cardiologia intervencionista (hemodinâmica)                                                                                                           202408
+122005Teste Ergométrico por Telemedicina                                                                                                                    202408
+125005Dispensação de medicamentos básicos                                                                                                                   202408
+126005Assistência fisioterapêutica nas disfunções músculo-esqueléticas (todas as origens)                                                                   202408
+130005Tratamento Diálitico Peritonial                                                                                                                       202408
+131005Diagnóstico em Oftalmologia por Telemedicina                                                                                                          202408
+132005Oncologia cirúrgica                                                                                                                                   202408
+134005Homeopatia                                                                                                                                            202408
+135005Reabiliatação Auditiva                                                                                                                                202408
+101005Saúde da Família para a População Ribeirinha-Saúde Bucal MI                                                                                           202408
+103005Unidade de Suporte Básico de vida: Equipe Embarcação                                                                                                  202408
+104005Unidade de autorizações de TFD interestaduais                                                                                                         202408
+105005Tratamento neurocirúrgico da dor funcional                                                                                                            202408
+106005Unidade Dispensadora de Medicamentos - UDM                                                                                                            202408
+107005Implante Coclear                                                                                                                                      202408
+109005Atenção Básica à Adolescentes em Unidade Socioeducativa                                                                                               202408
+112005Centro de parto normal                                                                                                                                202408
+113005Equipe de cuidados domiciliares                                                                                                                       202408
+114005Cirurgia oral                                                                                                                                         202408
+165005Serviço de Referência para Atenção Integral à Saúde de Pessoas Idosas em Situação de Violência Sexual                                                 202408
+164006Manutenção e Adaptação de OPM Auditiva                                                                                                                202408
+115006UA Adulto                                                                                                                                             202408
+166006Células, Tecidos e Órgãos                                                                                                                             202408
+139006Acompanhamento a pacientes com diagnósticos de Deficiência Biotinidase                                                                                202408
+140006Pronto Atendimento Clínico                                                                                                                            202408
+145006Exames hormonais                                                                                                                                      202408
+148006Acompanhamento pós-transplante de medula óssea                                                                                                        202408
+149006Fígado                                                                                                                                                202408
+159006Núcleo Ampliado de Saúde da Família e Atenção Primária                                                                                                202408
+160006TELECONSULTA                                                                                                                                          202408
+161006TELECONSULTA                                                                                                                                          202408
+116006Cardiologia Endovascular Extracardíaco                                                                                                                202408
+121006Radiologia intervencionista                                                                                                                           202408
+122006Teste Holter por Telemedicina                                                                                                                         202408
+125006Farmácia Hospitalar                                                                                                                                   202408
+126006Assistência fisioterapêutica em queimados                                                                                                             202408
+130006Tratamento em DRC                                                                                                                                     202408
+131006Projeto Olhar Brasil - Programa Saúde na Escola (PSE)                                                                                                 202408
+134006Termalismo/Crenoterapia                                                                                                                               202408
+101006Saúde da Família Fluvial                                                                                                                              202408
+103006Veículos de intervenção rápida                                                                                                                        202408
+104006Central Estadual de Regulação da Alta Complexidade                                                                                                    202408
+105006Investigação e cirurgia de epilepsia                                                                                                                  202408
+107006Triagem Auditiva Neonatal                                                                                                                             202408
+112006Casa da Gestante, Bebê e Puérpera                                                                                                                     202408
+114006Cirurgia buco-maxilo-facial                                                                                                                           202408
+165006Serviço de referência para interrupção de gravidez nos casos previstos em LEI                                                                         202408
+164007Dispensação de OPM Oftalmológica                                                                                                                      202408
+115007UA Infantojuvenil                                                                                                                                     202408
+166007Medicamentos                                                                                                                                          202408
+140007Pronto Atendimento Pediátrico                                                                                                                         202408
+145007Exames de  vigilância epidemiológica e  ambiental                                                                                                     202408
+149007Pâncreas                                                                                                                                              202408
+159007Atenção Primária para População Ribeirinha                                                                                                            202408
+160007TELEMONITORAMENTO                                                                                                                                     202408
+116007Cardiologia Clínica                                                                                                                                   202408
+121007Radiologia por telemedicina                                                                                                                           202408
+122007Exame Eletrocardiografico por Telemedicina                                                                                                            202408
+123007OPM em odontologia                                                                                                                                    202408
+125007Farmácia Viva                                                                                                                                         202408
+126007Assistência fisioterapêutica nas alterações em neurologia                                                                                             202408
+131007Projeto Olhar Brasil - Programa Brasil Alfabetizado (PBA)                                                                                             202408
+134007Antroposofia Aplicada à Saúde                                                                                                                         202408
+135007Oficina Ortopédica Fixa                                                                                                                               202408
+101007Saúde da Família Fluvial com Saúde Bucal                                                                                                              202408
+103007Outros veículos                                                                                                                                       202408
+104007Regulação Nacional de Alta Complexidade                                                                                                               202408
+105007Tratamento endovascular                                                                                                                               202408
+112007Atenção especializada ao seguimento do recém-nascido e crianças egressos de unidades neonatais (ANEO)                                                 202408
+114007Atendimento à pessoa com deficiência                                                                                                                  202408
+165007Atenção Ambulatorial  ás Pessoas em Situação de Violência Sexual                                                                                      202408
+164008Adaptação de OPM Oftalmológica                                                                                                                        202408
+115008Unidade de Atenção em Regime Residencial                                                                                                              202408
+166008Saneantes Domissanitários                                                                                                                             202408
+140008Pronto Atendimento Obstétrico                                                                                                                         202408
+145008Exames toxicológicos ou de monitorização terapêutica                                                                                                  202408
+149008Retirada de orgãos                                                                                                                                    202408
+152008Hospitalidade Indígena                                                                                                                                202408
+159008Consultório na Rua                                                                                                                                    202408
+160008TELEORIENTACAO                                                                                                                                        202408
+116008Serviço de Atenção Cardiovascular/Cardiologia Angiologia                                                                                              202408
+121008Ultra-sonografia por telemedicina                                                                                                                     202408
+122008Exame Eletroencefalografico por Telemedicina                                                                                                          202408
+123008OPM buco-maxilo-facial                                                                                                                                202408
+126008Diagnóstico cinético funcional                                                                                                                        202408
+134008Práticas Expressivas                                                                                                                                  202408
+135008Oficina Ortopédica Intinerante                                                                                                                        202408
+101008ESF Tipo I, II, III, IV ou Transitória                                                                                                                202408
+103008Ambulância de resgate                                                                                                                                 202408
+104008Regulação Ambulatorial de Média Complexidade                                                                                                          202408
+105008Neurocirurgia funcional estereotáxica                                                                                                                 202408
+107008Atenção Especializada às Pessoas com Deficiência Auditiva                                                                                             202408
+112008Atenção especializada gestação de alto risco (AGAR)                                                                                                   202408
+165008Coleta de  Vestígios de Violência Sexual                                                                                                              202408
+164009Substitução/Troca de OPM                                                                                                                              202408
+115009Tratamento em Regime de Internação para Transtornos Mentais e Dependência Química                                                                     202408
+140009Pronto Atendimento Psiquiátrico                                                                                                                       202408
+145009Exames microbiológicos                                                                                                                                202408
+149009Pele                                                                                                                                                  202408
+152009Gestão da Atenção e Saneamento à Populações Indígenas                                                                                                 202408
+159009Atenção Primária para População Prisional                                                                                                             202408
+160009TELEINTERCONSULTA                                                                                                                                     202408
+121009Tomografia computadorizada por telemedicina                                                                                                           202408
+122009Exame Eletroneuromiografia                                                                                                                            202408
+134009Ayurveda                                                                                                                                              202408
+135009Oficina Ortopédica Intinerante Fluvial                                                                                                                202408
+101009ESF Tipo I, II, III, IV ou Transitória com Saúde Bucal MI                                                                                             202408
+104009Regulação do Acesso a Ações e Serviços de Saúde                                                                                                       202408
+105009Polissonografia                                                                                                                                       202408
+166009Produtos para a Saúde                                                                                                                                 202408
+135010Atenção Fonoaudiológica                                                                                                                               202408
+121010Ressonância magnética por telemedicina                                                                                                                202408
+159010Atenção Primária para Adolescentes em Unidade Socioeducativa                                                                                          202408
+160010TELETRIAGEM                                                                                                                                           202408
+103010Motolância                                                                                                                                            202408
+145010Exames em outros líquidos biológicos                                                                                                                  202408
+134010Práticas Naturais                                                                                                                                     202408
+101010ESF Tipo I, II, III, IV ou Transitória com Saúde Bucal MII                                                                                            202408
+164010Dispensação de OPM em Gastroenterologia                                                                                                               202408
+166010Cosméticos                                                                                                                                            202408
+149010Válvulas cardíacas                                                                                                                                    202408
+123010OPM em queimados                                                                                                                                      202408
+122010Exame videoeletroencefalografia                                                                                                                       202408
+140010Pronto Atendimento Oftalmológico                                                                                                                      202408
+152010Saúde Bucal à Populações Indígenas                                                                                                                    202408
+134011Práticas Manuais                                                                                                                                      202408
+160011TELERREGULACAO                                                                                                                                        202408
+123011OPM em nefrologia                                                                                                                                     202408
+166011Desinfestantes                                                                                                                                        202408
+122011Potenciais Evocados                                                                                                                                   202408
+164011Dispensação de OPM em Urologia                                                                                                                        202408
+121011Radiologia intervencionista por telemedicina                                                                                                          202408
+101011ESF Transitória                                                                                                                                       202408
+149011Osteocondroligamentos                                                                                                                                 202408
+140011Pronto Atendimento Odontológico                                                                                                                       202408
+103011Unidade de Suporte Avançado de vida: Equipe Embarcação                                                                                                202408
+135011Atenção Fisioterapeutica                                                                                                                              202408
+145011Exames de genética                                                                                                                                    202408
+140012Pronto Socorro Pediátrico                                                                                                                             202408
+134012Práticas Psicodinâmicas                                                                                                                               202408
+123012OPM - Projeto Olhar Brasil                                                                                                                            202408
+122012Potenciais Evocados por Telemedicina                                                                                                                  202408
+121012Mamografia                                                                                                                                            202408
+103012Equipe Aeromédico                                                                                                                                     202408
+101012Saúde da Família para a População Ribeirinha - Saúde Bucal MII                                                                                        202408
+135012Atenção à Saúde das Pessoas Ostomizadas I                                                                                                             202408
+166012Imunobiológicos                                                                                                                                       202408
+149012Separação, avaliação biomicroscópica e conservação da córnea/esclera                                                                                  202408
+145012Exames para triagem neonatal                                                                                                                          202408
+145013Exames imunohematológicos                                                                                                                             202408
+135013Atenção à Saúde das Pessoas Ostomizadas II                                                                                                            202408
+140013Pronto Socorro Obstétrico                                                                                                                             202408
+101013ESB MI                                                                                                                                                202408
+121013Mamografia por Telemedicina                                                                                                                           202408
+123013OPM Projeto Olhar Brasil - Programa Saúde na Escola (PSE)                                                                                             202408
+134013Ozônioterapia                                                                                                                                         202408
+149013Contagem endotelial corneana                                                                                                                          202408
+166013Insumos Farmacêuticos                                                                                                                                 202408
+134014Aromaterapia                                                                                                                                          202408
+140014Pronto Socorro Cardiovascular                                                                                                                         202408
+166014Material Biológico                                                                                                                                    202408
+101014ESB MII                                                                                                                                               202408
+123014OPM Projeto Olhar Brasil - Programa Brasil Alfabetizado (PBA)                                                                                         202408
+149014Acompanhamento de paciente transplantado                                                                                                              202408
+166015Sangue e Hemoderivados                                                                                                                                202408
+140015Pronto Socorro Neurologia/Neurocirurgia                                                                                                               202408
+134015Imposição de Mãos                                                                                                                                     202408
+149015Ações para doação e captação de órgãos e tecidos                                                                                                      202408
+140016Pronto Socorro Traumato-Ortopédico                                                                                                                    202408
+149016Retirada de globo ocular humano para transplante                                                                                                      202408
+166016Surtos de Toxinfecção                                                                                                                                 202408
+166017Diversos                                                                                                                                              202408
+140017Pronto Socorro Odontológico                                                                                                                           202408
+140018Pronto Socorro Oftalmológico                                                                                                                          202408
+140019Pronto Socorro Geral/Clínico                                                                                                                          202408
